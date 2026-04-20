@@ -1,13 +1,32 @@
-<h1 align="center">Hi there 👋, I'm Akila</h1>
-<h3 align="center">BTech (Hons) ICT Undergraduate | Full-Stack Web Developer & Cybersecurity Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=45&fontAlignY=40&desc=BTech%20(Hons)%20ICT%20Undergraduate&descAlignY=65&descAlign=50" />
+</div>
 
-<p align="left">
-  I'm a 2nd-year undergraduate at General Sir John Kotelawala Defence University (KDU), Sri Lanka. I am passionate about building scalable full-stack applications and exploring the depths of network analysis, penetration testing, and ethical hacking. I am currently open to freelance opportunities and looking forward to an industry internship in 2027.
-</p>
+<h2 align="center">👋 Hey there, I'm Akila!</h2>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;BTech+ICT+Undergraduate;Freelance+Developer" alt="Typing SVG" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <p><b>🌐 Connect with me</b></p>
+  <a href="mailto:ඔයාගේ_EMAIL_එක_මෙතනට_දාන්න"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.fiverr.com/YOUR_FIVERR_USERNAME"><img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+</div>
+
+<br/>
+
+### 👤 About Me
+* 🎓 **Computer Engineering / ICT Undergraduate** at General Sir John Kotelawala Defence University.
+* 💻 Passionate about building scalable full-stack applications and exploring network analysis, penetration testing, and ethical hacking.
+* 🚀 Looking forward to an industry internship in 2027.
 
 ### 🔭 What I'm currently working on:
 * **GeoEvent:** Developing a hyperlocal event discovery platform using React, Node.js, and MySQL.
-* **Cybersecurity:** Expanding my hands-on experience in Linux environments (Ubuntu, Kali) and practicing with tools like Metasploit and Wireshark.
+* **Cybersecurity:** Expanding hands-on experience in Linux environments (Ubuntu, Kali) and practicing with Metasploit and Wireshark.
 
 ### 🌱 Highlighted Projects:
 * **Ceylon Cinnamon:** An e-commerce platform designed to bridge the gap for local farmers.
@@ -26,16 +45,3 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
 ![Nmap](https://img.shields.io/badge/-Nmap-222222?logo=nmap&logoColor=white&style=flat-square)
-
-### 📫 Let's Connect:
-
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Fiverr" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
-[<img align="left" alt="Upwork" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
-
-<br />
-<br />
-
-[linkedin]: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-[fiverr]: https://www.fiverr.com/YOUR_FIVERR_USERNAME
-[upwork]: https://www.upwork.com/freelancers/YOUR_UPWORK_USERNAME
