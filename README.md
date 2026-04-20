@@ -5,7 +5,7 @@
 <h2 align="center"> Hey there, I'm Akila!</h2>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Undergraduate+in+BT(Hons)+ICT+at+General+Sir+John+Kotelawala+Defence+University;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Dev+Sec+Ops;Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Undergraduate+in+BT(Hons)+ICT+at+KDU;" alt="Typing SVG" /></a>
 </div>
 
 <br/>
