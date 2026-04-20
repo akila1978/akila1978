@@ -2,26 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=45&fontAlignY=40&desc=BTech%20(Hons)%20ICT%20Undergraduate&descAlignY=65&descAlign=50" />
 </div>
 
-<h2 align="center">👋 Hey there, I'm Akila!</h2>
+<h2 align="center"> Hey there, I'm Akila!</h2>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;BTech+ICT+Undergraduate;Freelance+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Undergraduate+in+BT(Hons)+ICT+at+General+Sir+John+Kotelawala+Defence+University;" alt="Typing SVG" /></a>
 </div>
 
 <br/>
 
 <div align="center">
   <p><b>🌐 Connect with me</b></p>
-  <a href="mailto:ඔයාගේ_EMAIL_එක_මෙතනට_දාන්න"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.fiverr.com/YOUR_FIVERR_USERNAME"><img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+  <a href="mailto:kumarasadun886@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/ https://www.linkedin.com/in/akila-sadun-074a09340/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  
 </div>
 
 <br/>
 
 ### 👤 About Me
-* 🎓 **Computer Engineering / ICT Undergraduate** at General Sir John Kotelawala Defence University.
-* 💻 Passionate about building scalable full-stack applications and exploring network analysis, penetration testing, and ethical hacking.
+* 🎓  Undergraduate in BT(Hons) ICT at General Sir John Kotelawala Defence University.
+* 💻   Full-Stack Developer (React, Node.js, MySQL) 💻 | Cyber Security Enthusiast 🔐 | Exploring the world of Code & Security.
 * 🚀 Looking forward to an industry internship in 2027.
 
 ### 🔭 What I'm currently working on:
@@ -30,6 +30,7 @@
 
 ### 🌱 Highlighted Projects:
 * **Ceylon Cinnamon:** An e-commerce platform designed to bridge the gap for local farmers.
+* **GeoEvent – A Location-Based Event Discovery Platform!
 * **The Little Monster:** IoT security research and network analysis utilizing an ESP8266 NodeMCU.
 
 ### 💻 Tech Stack & Tools:
