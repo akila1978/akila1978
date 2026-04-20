@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=45&fontAlignY=40&desc=BTech%20(Hons)%20ICT%20Undergraduate&descAlignY=65&descAlign=50" />
 </div>
 
-<h2 align="center"> Hey there, I'm Akila Sadun!</h2>
+<h2 align="center"> **Hey there, I'm Akila Sadun!** </h2>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevSecOps;Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Undergraduate+in+BT(Hons)+ICT+at+KDU;" alt="Typing SVG" /></a>
@@ -21,8 +21,8 @@
 
 ### 👤 About Me
 * 🎓  Undergraduate in BT(Hons) ICT at General Sir John Kotelawala Defence University.
-* 💻   Full-Stack Developer (React, Node.js, MySQL) 💻 | Cyber Security Enthusiast 🔐 | Exploring the world of Code & Security.
-* 🚀 Looking forward to an industry internship in 2027.
+* 💻  Full-Stack Developer (React, Node.js, MySQL) | Cyber Security Enthusiast  | Exploring the world of Code & Security.
+* 🚀  Looking forward to an industry internship in 2027.
 
 ### 🔭 What I'm currently working on:
 * **GeoEvent:** Developing a hyperlocal event discovery platform using React, Node.js, and MySQL.
@@ -30,7 +30,7 @@
 
 ### 🌱 Highlighted Projects:
 * **Ceylon Cinnamon:** An e-commerce platform designed to bridge the gap for local farmers.
-* **GeoEvent – A Location-Based Event Discovery Platform!
+* **GeoEvent** – A Location-Based Event Discovery Platform.
 * **The Little Monster:** IoT security research and network analysis utilizing an ESP8266 NodeMCU.
 
 ### 💻 Tech Stack & Tools:
