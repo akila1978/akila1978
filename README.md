@@ -89,12 +89,18 @@
 <hr/>
 <br/>
 
-<!-- GitHub Snake Animation -->
-<h3 align="center">🐍 My Contribution Graph</h3>
+<!-- Analytics Dashboard -->
+<h3 align="center">📊 GitHub Analytics</h3>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akila1978/akila1978/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akila1978/akila1978/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akila1978/akila1978/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=akila1978&show_icons=true&theme=tokyonight&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akila1978&layout=compact&theme=tokyonight&hide_border=true" height="195" />
 </div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akila1978&theme=tokyonight&hide_border=true&background=0D1117" width="97%" />
+</div>
+
+<br/>
+<hr/>
+<br/>
