@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=60&fontAlignY=40&desc=Akila%20Sadun%20-%20DevSecOps%20and%20Full-Stack%20Dev&descAlignY=65&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0D1117&height=250&section=header&text=Akila%20Sadun&fontSize=60&fontAlignY=35&desc=DevSecOps%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" />
 </div>
 
 <!-- Typing Animation & Views -->
@@ -57,8 +57,11 @@
 <h3 align="center">⚡ Tech Stack & Arsenal</h3>
 
 <div align="center">
+  <p><b>Programming Languages</b></p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
+  <br/><br/>
   <p><b>Web Development & DB</b></p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,html,css,js,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,bootstrap&theme=dark" />
   <br/><br/>
   <p><b>DevSecOps, OS & Version Control</b></p>
   <img src="https://skillicons.dev/icons?i=docker,kali,ubuntu,linux,bash,git,github,postman&theme=dark" />
@@ -73,24 +76,8 @@
 <hr/>
 <br/>
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akila1978&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akila1978&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akila1978&theme=react&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff" width="97%" />
-</div>
-
-<br/>
-<hr/>
-<br/>
-
 <!-- Analytics Dashboard -->
-<h3 align="center">📊 GitHub Analytics</h3>
+<h3 align="center">📊 GitHub Analytics & Activity</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akila1978&show_icons=true&theme=tokyonight&hide_border=true" height="195" />
@@ -100,7 +87,16 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akila1978&theme=tokyonight&hide_border=true&background=0D1117" width="97%" />
 </div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akila1978&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="97%" alt="Activity Graph" />
+</div>
 
 <br/>
 <hr/>
 <br/>
+
+<!-- Developer Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+</div>
