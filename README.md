@@ -2,7 +2,7 @@
 <!--           HEADER / MATRIX BANNER            -->
 <!-- ============================================ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:38BDF8,100:0D1117&height=280&section=header&text=AKILA%20SADUN&fontSize=70&fontColor=38BDF8&fontAlignY=35&desc=%3E%20DevSecOps%20%7C%20Full-Stack%20Developer%20%7C%20Ethical%20Hacker&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:38BDF8,100:0D1117&height=280&section=header&text=AKILA%20SADUN&fontSize=70&fontColor=38BDF8&fontAlignY=35&desc=%3E%20DevSecOps%20%7C%20Full-Stack%20Developer%20%7C%20&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
