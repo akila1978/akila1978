@@ -10,13 +10,17 @@
   </a>
 </div>
 
+<div align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
+
 <br/>
 
 <div align="center">
-  <p><b>🌐 Connect with me</b></p>
+  <p><b>🌐 Let's Connect</b></p>
   <a href="mailto:kumarasadun886@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/akila-sadun-074a09340/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <!-- ඔයාගේ fiverr username එක පහත ලින්ක් එකට දාන්න -->
   <a href="https://www.fiverr.com/YOUR_FIVERR_USERNAME"><img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
 </div>
 
@@ -31,6 +35,27 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <p><b>Web Development</b></p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,html,css,js" />
+  <br/><br/>
+  <p><b>Cybersecurity, OS & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=kali,ubuntu,linux,bash,git,github,postman" />
+</div>
+
+---
+
 ### 🚀 Highlighted Projects
 * 🌿 **Ceylon Cinnamon:** An e-commerce web application built to bridge the gap between local cinnamon farmers and consumers.
 * 📍 **GeoEvent:** A hyperlocal event discovery and management platform architected using React, Node.js, and MySQL.
@@ -38,26 +63,12 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Web Development:**  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-
-**Cybersecurity & Operating Systems:**  
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- ඔයාගේ GitHub Username එක පහත ලින්ක් වල 'YOUR_GITHUB_USERNAME' වෙනුවට දාන්න -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="48%" />
 </div>
