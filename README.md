@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=60&fontAlignY=40&desc=I'm%20Akila%20Sadun%20%7C%20DevSecOps%20%26%20Full-Stack%20Dev&descAlignY=65&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=60&fontAlignY=40&desc=Akila%20Sadun%20-%20DevSecOps%20and%20Full-Stack%20Dev&descAlignY=65&descAlign=50" width="100%" />
 </div>
 
 <!-- Typing Animation & Views -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+(Hons)+ICT+Undergrad+at+KDU;Full-Stack+Web+Developer+(React%2FNode);Cybersecurity+%26+Network+Security;Freelance+Developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+(Hons)+ICT+Undergraduate;Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Freelance+Developer" alt="Typing SVG" />
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=akila1978&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
